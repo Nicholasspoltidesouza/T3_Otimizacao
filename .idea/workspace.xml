@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3af4f3d-7baf-4011-8868-e8140e64654e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dominos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dominos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caso20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caso21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caso22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caso23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caso24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caso25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caso26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caso27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caso28.txt" afterDir="false" />
+    <list default="true" id="c3af4f3d-7baf-4011-8868-e8140e64654e" name="Changes" comment="done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dominos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dominos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,12 +86,26 @@
       <workItem from="1714512310745" duration="108000" />
       <workItem from="1714512850555" duration="1224000" />
       <workItem from="1714521186502" duration="6011000" />
-      <workItem from="1714849585759" duration="2658000" />
+      <workItem from="1714849585759" duration="3404000" />
+      <workItem from="1714874246066" duration="2004000" />
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <option name="closed" value="true" />
+      <created>1714852433620</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714852433620</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
