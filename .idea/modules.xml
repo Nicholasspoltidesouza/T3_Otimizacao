@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Dominos.iml" filepath="$PROJECT_DIR$/Dominos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/T3_Otimizacao.iml" filepath="$PROJECT_DIR$/.idea/T3_Otimizacao.iml" />
     </modules>
   </component>
 </project>

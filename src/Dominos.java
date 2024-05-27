@@ -84,7 +84,7 @@ public class Dominos {
                     memo.put(resposta, true);
                     sequenciaDominos(sequencia, resposta);
                 }
-                sequencia.removeLast();
+                sequencia.remove(sequencia.size() - 1);
             }
             domino = domino.inverso();
             if (podeAdicionar(domino, sequencia)) {
@@ -95,12 +95,12 @@ public class Dominos {
                     memo.put(resposta, true);
                     sequenciaDominos(sequencia, resposta);
                 }
-                sequencia.removeLast();
+                sequencia.remove(sequencia.size() - 1);
             }
         }
     }
 
     private static boolean podeAdicionar(Dominos dom, List<Dominos> to) {
-        return to.isEmpty() || to.getLast().b == dom.a;
+        return to.isEmpty() || to.get(to.size() - 1 ).b == dom.a;
     }
 }
